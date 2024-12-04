@@ -1,0 +1,530 @@
+.f1{
+    background-color: green;
+color: white;
+padding: 8px;
+}
+.img{
+    color:black;
+    height: 10px;
+    width: 10px;
+}
+.f2{
+   
+    width: auto;
+    margin: -75px 47px;
+
+}
+.f3{
+font-size: large;
+margin: -15px 350px;
+}
+.f4{
+    margin: -18px 500px;
+}
+.f5{
+    margin: -18px 665px;
+}
+.f6{
+  margin: -18px 830px;
+  width: 100vw;
+}
+.r1{
+    color: green;
+    font-size: 24px;
+    font-family: Arial;
+    margin: 80px 100px;
+}
+.r2{
+    color: green;
+    margin: -108px 264px;
+    font-size: 24px;
+}
+.r3{
+    color: green;
+    font-size: 24px;
+    font-family: Arial;
+    margin: 80px 555px;
+}
+.r4{
+    color: green;
+    margin: -78px 103px;
+    font-size: 24px;
+}
+.aril{
+    margin: 90px 30px;
+}
+.q1{
+    margin: -560px 928px;
+    color: white;
+   font-size: 90px; 
+}
+.q2{
+    margin: 537px 923px;
+    color: white;
+    width: 900px;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.q3{
+    margin: -539px 925px;
+    color: white;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.e1{
+    border-radius: 20px;
+    background-color: red;
+    margin: 530px 947px;
+    width: 90px;
+    
+}
+.bac{
+    background-color: green;
+    margin-top: -362px;
+    margin-left: -8px;
+    width: 1516px;
+    height: 480px;
+}
+.ak
+    {
+        width: 106%;
+        margin-left: -52px;
+}
+.rt{
+    margin-top: 108px;  
+    margin-left: 146px;
+}
+.gate{
+    margin: -445px 99px;
+    color: white;
+    font-size: 33px;
+
+}
+.some{
+    margin-top: 405px;
+    margin-left: 266px;
+    color: white;
+    font-size: 33px;
+    font-weight: bold;
+
+}
+.boder{
+    background-color:rgb(118, 247, 118);
+    margin: 3% 11%;
+    padding: 9%;
+    border-radius: 10px;
+    width: 20%;
+}
+.boder1{
+    background-color:rgb(118, 247, 118);
+    margin: -22% 53%;
+    padding: 9%;
+    border-radius: 10px;
+    width: 20%;
+}
+.nem{
+    margin-top: 50px;
+    margin-left:200px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+.nem1{
+    margin-top: 7px;
+    margin-left: 200px;
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.img1{
+    margin-top: -4px;
+    margin-left: 232px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.text{
+    margin-top: -93px;
+    margin-left: 877px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+.text1{
+    margin-top: -2px;
+    margin-left: 877px;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.img2{
+    margin-top: -5px;
+    margin-left: 978px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/* .boder2{
+    background-color: white;
+    margin: 250px -12px;
+    padding: 100%;
+    
+    width: 100%;
+} */
+.text2{
+    margin-top: 320px;
+    margin-left: 176px;
+    color:green;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text3{
+    margin-top: 6px;
+    margin-left: 180px;
+    color: green;
+    font-size: 18px;
+    font-weight: lighter;
+
+}
+.img3{
+    margin-top: -131px;
+    margin-left: 484px;
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.png{
+    border-radius: 20px;
+    background-color: red;
+    margin: -20px 186px;
+    width: 95px;
+}
+.cloth{
+  
+    margin-top: 855px;
+    margin-left: -8px;
+    width: 1516px;
+    height: 480px;
+}
+.text4{
+    margin-top: -413px;
+    margin-left: 872px;
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+.mak{
+ 
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 6px;
+    margin-top: 5px;
+    margin-bottom: -155px;
+    margin-left: 862PX;
+    height: 20px;
+    width: 305px;
+}
+.meta{
+    color: green;
+    margin-top: 159px;
+    margin-left: 877px;
+    font-size: 22px;
+    font-weight: bold;
+
+
+}
+.fix{
+    margin-top: -20px;
+    margin-left: 877px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;      
+    border-radius: 40px;
+    background-color: red;
+}
+.stain{
+    margin-top: -284px;
+    color: green;
+    font-weight: bold;
+
+    margin-left: 1199px;
+    padding: 40px;
+    width: 100px;
+    font-size: 25px;
+   
+}
+.can{
+    margin-top: 180px;
+    margin-left: 886px;
+    margin-right: 40px;
+    text-decoration: underline;
+}
+.stape{
+
+    margin: 130px -8px;
+    padding: 40px;
+    height: 500px;
+    padding: 100px;
+    background-color: green;
+}
+
+.id{margin: -813px 78px;
+    font-size: 30px;
+    color: white;
+}
+.pe{
+    
+    margin: 780px 254px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+
+}
+.mou{
+    margin: -773px 79px;
+    font-size: 20px;
+    color: white;
+}
+.img4{
+    margin: 800px 261px;
+}
+.text5{
+    margin: -792px 271px;
+    color: white;
+}
+.star{
+    margin: -959px 267px;
+    color:white;
+}
+.push{
+    margin: 897px 282px;
+    border-radius: 20px;
+    background-color: red;
+    padding: 8px;
+    color: white;
+}
+.img5{
+    margin: -1094px 590px;
+}
+.text6{
+    color: white;
+    margin: 841px 599px;
+}
+.stare1{
+    margin: 1222px 610px;
+    border-radius: 20px;
+    background-color: red;
+    padding: 8px;
+    color: white;
+}
+.star2{
+    margin: -1280px 596px;
+    color: white;
+}
+.img7{
+    margin: 942px 878px;
+}
+.text7{
+    margin: -929px 886px;
+    color: white;
+    width: 300px;
+}
+.call{
+    width: 90px;
+    margin: 1011px 917px;
+    border-radius: 20px;
+    background-color: red;
+    padding: 8px;
+    color: white
+}
+.star3{
+    width: 200px;
+    margin: -1071px 916px;
+    color: white;
+}
+.prode{
+    color: white;
+    margin: 1218px 611px;
+    text-decoration: underline;
+}
+.join{
+    margin: -1084px 189px;
+    width: 300px;
+    font-size: 30px;
+color:green;
+
+}
+.fast{
+    margin-left: 23pc;
+    margin-top: 1050px;
+    margin-right: -113px;
+    margin: -8pxpx 241px;
+    width: 300px;
+    font-size: 30px;
+    color: green;
+    width: 500px;
+    font-weight: bold;
+
+}
+.second{
+    margin: 24px 193px;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+}
+.don{
+  
+    margin: -104px 199px;
+    width: 200px;
+    padding: 71px;
+    border-radius: 10px;
+    background-color: white;
+}
+.text8{
+    margin: -225px 230px;
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+.no{
+     margin: 231px 245px;
+     
+}
+.read{
+    margin: -205px 249px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.img8{
+    margin: -348px 594px;
+}
+.text9{
+    margin: 255px 646px;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+}
+.more{
+    margin: -257px 642px;
+}
+.md{
+    margin: 266px 646px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.error{
+    margin: -647px 1013px;
+
+}
+.none{
+    margin: 561px 1055px;
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+    width: 350px;
+}
+.de{
+    width: 560px;
+    margin: -550px 1076px;
+    
+}
+.dr{
+    margin: 580px 1076px;
+    text-decoration: underline;
+    width: 560px;
+    font-weight: bold;
+}
+.rang{
+    margin: -430px 249px;
+   font-size: 30px;
+   color: green;
+}
+.rang1{
+    margin: 396px 444px;
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+.te{
+    margin: -373px 245px;
+}
+
+.flex{
+    /* display: flex;
+    margin-left: 10%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30%; */
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    grid-template-rows: auto auto;
+    margin-left: 10%;
+    gap: 20px;
+    margin-top: 30%;
+}
+.btn{
+    width: 170px;
+    padding: 9px;
+    margin: 44px 710px;
+    background-color: red;
+    border-radius: 50px;
+}
+.last{
+    color: white;
+    margin: -337px 705px;
+}
+.last1{
+    border: 2px solid black;
+    margin: -26px -11px;
+    padding: 188px;
+    color: green;
+    background-color: green;
+}
+.finesh{
+    display: grid;
+        grid-template-columns: auto auto auto auto ;
+        margin-right: 99%;
+        grid-template-rows: auto auto;
+        margin-left: 36%;
+        gap: 23px;
+        margin-top: 24%;
+}
+.lasttxt{
+
+    display: flex;
+        width: 100%;
+        grid-template-columns: auto auto auto auto auto auto;
+        margin-right: 83%;
+        grid-template-rows: auto auto;
+        margin-left: 23%;
+        font-size: 20px;
+        color: white;
+        gap: 23px;
+        
+}
+.fast2{
+   
+    margin: 102px 336px;
+    color: white;
+    font-size: 20px;
+    display: inline;
+}
+.logo{
+    margin: 95px -305px;
+    color: white;
+    font-size: 20px;
+    display: inline;
+}
+.out{
+    margin: 95px 300px;
+    color: white;
+    font-size: 20px;
+    display: inline;
+    padding: 172px;
+}
+
